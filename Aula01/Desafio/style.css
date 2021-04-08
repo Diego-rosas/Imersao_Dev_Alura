@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 500px;
+    background-image: url('https://www.hojeemdia.com.br/polopoly_fs/1.792965.1593213532!/image/image.jpg_gen/derivatives/landscape_653/image.jpg');
+    background-color: #000000;
+    background-size: 85vh;
+    background-position: center left 10px;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 5px;
+    height: 85vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 2px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
+  
+  input{
+    margin: 0 0 10px;
+    
+  }
